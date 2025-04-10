@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Atul Kumar
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
@@ -6,23 +6,15 @@
 
 ## About Me 🚀
 
-I'm a passionate [Your Role] with [X years] of experience in [Your Field]. I love building [what you build] and exploring new technologies.
+I'm a passionate Full Stack Developer and Machine Learning Engineer with 2 years of experience as an ML member at KRS. I love building backend APIs, ML APIs, and exploring new technologies in the machine learning space.
 
-- 🔭 I'm currently working on [Current Project]
-- 🌱 I'm currently learning [What You're Learning]
-- 👯 I'm looking to collaborate on [Types of Projects]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: [Something Interesting About You]
+- 🔭 I'm currently working on **Meal Mate**
+- 🌱 I'm currently learning **Backend Development**
+- 👯 I'm looking to collaborate on **AI open-source projects**
+- 💬 Ask me about **Machine Learning, Full Stack Development, APIs**
+- 📫 How to reach me: **youremail@example.com**
+- ⚡ Fun fact: I can debug faster with coffee ☕
 
-## 🛠️ Technologies & Tools
-
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
 ## 📊 GitHub Stats
 
@@ -46,11 +38,8 @@ I'm a passionate [Your Role] with [X years] of experience in [Your Field]. I lov
 
 ## 📈 Contribution Graph
 
-[![Your Name's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Atul Kumar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
