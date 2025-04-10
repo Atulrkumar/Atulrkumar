@@ -12,7 +12,7 @@ I'm a passionate Full Stack Developer and Machine Learning Engineer with 2 years
 - 🌱 I'm currently learning **Backend Development**
 - 👯 I'm looking to collaborate on **AI open-source projects**
 - 💬 Ask me about **Machine Learning, Full Stack Development, APIs**
-- 📫 How to reach me: **youremail@example.com**
+- 📫 How to reach me: **atulrkumar13@gmail.com**
 - ⚡ Fun fact: I can debug faster with coffee ☕
 
 
