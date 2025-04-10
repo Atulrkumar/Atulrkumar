@@ -16,25 +16,13 @@ I'm a passionate Full Stack Developer and Machine Learning Engineer with 2 years
 - ⚡ Fun fact: I can debug faster with coffee ☕
 
 
-## 📊 GitHub Stats
 
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
-</p>
 
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📌 Pinned Repositories
 
-<a href="https://github.com/yourusername/repo-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-1&theme=radical" />
-</a>
-<a href="https://github.com/yourusername/repo-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-2&theme=radical" />
-</a>
 
 ## 📈 Contribution Graph
 
