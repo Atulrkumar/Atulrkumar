@@ -10,7 +10,7 @@
 <li>👯 I'm looking to collaborate on <strong>AI open-source projects</strong>.</li>
 <li>💬 Ask me about <strong>Machine Learning, Full Stack Development, APIs</strong>.</li>
 <li>📫 How to reach me: <strong>atulrkumar13@gmail.com</strong>.</li>
-<li>📙 Check out my <a href="https://atulrkumar.com/resume">resume</a>.</li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/1q0uT93Nu4aX1zD2eEpP1ww51zsnDdF0N/view">resume</a>.</li>
 <li>⚡ Fun fact: I can debug faster with coffee ☕</li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
