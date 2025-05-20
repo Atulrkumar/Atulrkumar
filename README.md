@@ -5,7 +5,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I'm currently working on <a href="https://mealmateai.vercel.app">Meal Mate</a>.</li>
+<li>🔭 I'm currently working as intern in HCL.</li>
 <li>🌱 I'm currently learning <strong>Backend Development</strong>.</li>
 <li>👯 I'm looking to collaborate on <strong>AI open-source projects</strong>.</li>
 <li>💬 Ask me about <strong>Machine Learning, Full Stack Development, APIs</strong>.</li>
